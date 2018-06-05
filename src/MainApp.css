@@ -1,0 +1,19 @@
+.component-app {
+  background: #ff8066;
+  margin: 2em;
+  min-height: 15em;
+  padding: 1em;
+}
+
+.component-app .quiz-container h3 {
+  text-align: center;
+}
+
+form {
+  background: grey;
+}
+
+form label {
+  display: block;
+  margin: 0.2em 0;
+}
